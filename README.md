@@ -47,9 +47,9 @@ npx hardhat test
 npx hardhat node
 npx hardhat deploy --network localhost
 ```
-### Deploy to Ethereum Testnet (Goerli)
+### Deploy to Ethereum Testnet (Sepolia)
 ```bash
-npx hardhat deploy --network goerli
+npx hardhat deploy --network sepolia
 ```
 
 ## 🔒 Security Model
